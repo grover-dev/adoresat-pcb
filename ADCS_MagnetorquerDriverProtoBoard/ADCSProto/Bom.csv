@@ -1,0 +1,16 @@
+QTY,MPN,Value,Manufacturer,Ref. Des.,Package
+24,Test Point Hole 0.9x1.1,0.9 mm x 1.1 mm,"","3V3, 5V, EN/FAULT 1A, EN/FAULT 1B, EN/FAULT 1C, EN/FAULT 2A, EN/FAULT 2B, EN/FAULT 2C, GND, Out A1, Out A2, Out B1, Out B2, Out C1, Out C2, PH A, PH B, PH C, PWM A, PWM B, PWM C, STB/RESET A, STB/RESET B, STB/RESET C",generic-single-hole-0.9x1.1
+3,GRM188Z71C225ME43J,2.2 uF - 16 V - X7R - 20%,Murata,"C1, C6, C11",C0603
+3,TMCMA1C226MTRF,22 uF - 16V - Electrolytic - 20%,Vishay / Sprague,"C2, C7, C12",C1206 -Tantalum
+3,581-06036C223KAT2A
+,6.3 V - 0.022 uF - 10%,AVX,"C3, C8, C13",C0603
+3,581-06036A102JAT4A
+,1 nF - 6.3V - X7R - 5%,AVX,"C4, C9, C14",C0603
+6,08056C103JAZ2A,0.01 uF - 6.3V - X7R - 5%,AVX,"C5, C10, C15, C16, C17, C18",C0805
+4,M3-Mounting Hole,M3-Mounting Hole,"","MH1, MH2, MH3, MH4",m3-mounting-hole
+3,WSC25152R000FEA,1 Ohms - 1 % - 1 W,Vishay / Dale,"R1, R6, R11",R2512
+6,ERA-3VEB1001V,1 kOhms - 0.1% - 0.1W,Panasonic,"R2, R8, R13, R17, R19, R21",R0603
+6,ERJ-3EKF1802V,18 kOhms - 1% - 0.1W,Panasonic,"R3, R4, R9, R10, R14, R15",R0603
+3,ERA-3VEB4702V,47 kOhms - 0.1% - 0.1W,Panasonic,"R5, R7, R12",R0603
+3,ERJ-3RBD333V,33K Ohm - 0.1 W - 0.5%,Panasonic,"R16, R18, R20",R0603
+3,STSPIN250,STSPIN250,ST,"U1, U2, U3",VFQFPN - 16L
